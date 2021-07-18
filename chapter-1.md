@@ -22,6 +22,20 @@ Problems include:
 - Lack of portability and reusability of data
 - Single point of failure for siloed storage of personal data
 
+### **The Federated Identity Model**
+The main idea behind this model is to have third party *identity providers* (**IDP**), to whom you and the website, service or application you are engaging with can federate the responsibilities of identification.  
+The collection of all service providers who use the same IDP or group of IDPs is called a *federation*.  
+Each organization or service provider within the federation, relying on this IDP or these IDPs, is known as a *relying party* (**RP**).
+
+Problems include:
+- Not ubiquitious - can't use one IDP across all services
+- IDPs must have security and privacy policies that serve ALL relying parties
+- IDPs become even bigger points of failure as centralized storage of private data for many services
+- Lack of portability
+- Can't accomodate the sharing of valuable personal data like passports, govt credentials, health data etc.
+
+
+### **The Decentralized Identity Model**
 
 
 
