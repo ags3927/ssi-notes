@@ -10,6 +10,7 @@ Reasons include the fact that the original internet was not meant to be used glo
 **What role can blockchain play?**  
 The biggest change in introducing Self Sovereign Identity (SSI) is the fact that it is truly decentralized. This is where blockchain comes in.
 
+---
 ## **The three models of digital identity**  
 Read [this](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) medium article for an elaborate discussion on these three types.
 
@@ -40,6 +41,28 @@ This model is not account dependent. Rather it is the virtualization of the real
 Blockchain is used for a Decentralized Public Key Infrastructure (**DPKI**). Uses:
 - Establishing secure connections between any two peers by exchanging public keys
 - Storing some of these public keys on public blockchains to verify signatures on Verifiable Credentials (digital identity credentials)
+
+---
+
+## **What is Self Sovereign Identity?**
+> A person’s identity that is neither dependent on nor subjected to any other power or state.
+
+Two popular myths about SSI:  
+1. **Self-sovereign identity is self-asserted identity**:  
+The idea that only you can make identity assertions about yourself. This is false because most of your credentials and identities are dependent on information from trusted sources. Which is why everyone can rely on it.
+2. **Self-sovereign identity is just for people**:  
+The idea that only people can use SSIs. This is false because SSIs apply equally to organizations and things.
+
+---
+
+## **Why is SSI so important?**
+SSI is so important because it represents a **shift in control or power**.  
+Through this identity model, the control over identities is shifted from "centers of the network" (organizations that silo identities), to the "edges of the network" (where all of us exist and interact as peers).  
+Over the next few years, SSI will progress rapidly with different SSI architectures popping up based on needs, wants and priorities of different communities implementing SSI. The most important thing to observe is how various SSI architectures become interoperable.
+
+
+
+
 
 
 
