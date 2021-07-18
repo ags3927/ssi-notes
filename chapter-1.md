@@ -60,7 +60,16 @@ SSI is so important because it represents a **shift in control or power**.
 Through this identity model, the control over identities is shifted from "centers of the network" (organizations that silo identities), to the "edges of the network" (where all of us exist and interact as peers).  
 Over the next few years, SSI will progress rapidly with different SSI architectures popping up based on needs, wants and priorities of different communities implementing SSI. The most important thing to observe is how various SSI architectures become interoperable.
 
+---
 
+## **Market drivers for SSI**
+Market drivers for SSI fall into three broad categories -  
+1. **Business efficiency and customer experience**  
+This is the biggest market driver for SSI and is enforced by desire of organizations to improve data security, increase compliance with privacy and data-protection regulations, reduce costs by improving workflows, and offer better user experience.
+2. **Resistance to surveillance economy**  
+Governments, privacy-conscious individuals, and a select number of corporations who want to combat *"surveillance capitalism"* - drive the adoption of SSI. The demand in this segment is fueled in parts by ideology, consumer sentiment, and strategic positioning.
+3. **Sovereign individual movement**  
+The demand from this segment comes from people who want to reassert control over their lives and data. Bitcoin, through permissionless cryptocurrency, creats truly decentralized economies that do not rely on any central parties for their operation. The same philosophy, when applied to digital identity, gives birth to this driver.
 
 
 
