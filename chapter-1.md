@@ -1,4 +1,4 @@
-# **Chapter 1 - WORK IN PROGRESS**
+# **Chapter 1**
 
 **The Problem**  
 The internet was built without a layer to cater to the identification of individuals and organizations connecting through the internet. It was, instead, oriented toward identifying devices that connected through the internet.
