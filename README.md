@@ -7,3 +7,4 @@ The book is written by Alex Preukschat and Drummond Reed (with Christopher Allen
 
 ## Links  
 - [Chapter 1](chapter-1.md)
+- [Chapter 2 (Work in Progress)](chapter-2.md)
