@@ -71,6 +71,39 @@ Governments, privacy-conscious individuals, and a select number of corporations 
 3. **Sovereign individual movement**  
 The demand from this segment comes from people who want to reassert control over their lives and data. Bitcoin, through permissionless cryptocurrency, creats truly decentralized economies that do not rely on any central parties for their operation. The same philosophy, when applied to digital identity, gives birth to this driver.
 
+<br>
+
+### **Example use cases of SSI**
+
+**E-commerce**  
+Adoption of SSI in e-commerce would allow users to:
+- enjoy passwordless registraion and login at any SSI-supported e-commerce platform
+- verify the reliability of the service provider
+- streamline payments by using the digital wallet instead of third party gateways or serivces
+- maintain a private log of purchases to feed to merchants or recommendation engines for better consumer experience
+
+**Banking and finance**  
+Adoption of SSI in banking and finance would allow users to:  
+- access financial services from all SSI-supported providers instantly, smoothly
+- pass Know Your Customer (KYC) and Anti Money Laundering (AML) checks easily
+- digitally share credit information and acquire loans or mortages super fast
+- get single-party or multi-party signatures to authorize important transactions (like million-dollar transactions)
+
+**Healthcare**  
+Current problems in healthcare include the existence of hundreds of vendors for cloud based EHRs which are rarely interoperable, the lack of portability of these EHRs across hospitals, doctors and healthcare professionals. Adoption of SSI would allow patients to:
+- instantly obtain EHRs upon generation
+- securely and privately share EHRs with healthcare professionals
+- provide consent for medical procedures from personal devices
+- have a persistence health profile spanning the entire lifespan of a patient
+
+**Travel**  
+Adoption of SSI in global travel industry would allow travelers to:
+- provide proof of any digital credentials instantly with a single QR code on a phone
+- receive credentials and maintain audit trail to present at subsequent checkpoints
+- selective disclosure - present only what is needed
+- all travel documents flow directly into the digital wallet, ready to be produced on demand
+
+
 
 
 
