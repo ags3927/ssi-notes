@@ -36,7 +36,10 @@ Problems include:
 
 
 ### **The Decentralized Identity Model**
-
+This model is not account dependent. Rather it is the virtualization of the real world practice of keeping credentials and identifications in a wallet. Peer to peer connection, secured with public/private key cryptography makes this model equitable where the user and the organization are equal participants in the relationship or connection between them. Neither 'provides', 'controls' or 'owns' the relationship.  
+Blockchain is used for a Decentralized Public Key Infrastructure (**DPKI**). Uses:
+- Establishing secure connections between any two peers by exchanging public keys
+- Storing some of these public keys on public blockchains to verify signatures on Verifiable Credentials (digital identity credentials)
 
 
 
