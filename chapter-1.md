@@ -1,4 +1,4 @@
-# **Chapter 1**
+# **Chapter 1 - WORK IN PROGRESS**
 
 **The Problem**  
 The internet was built without a layer to cater to the identification of individuals and organizations connecting through the internet. It was, instead, oriented toward identifying devices that connected through the internet.
@@ -70,8 +70,6 @@ This is the biggest market driver for SSI and is enforced by desire of organizat
 Governments, privacy-conscious individuals, and a select number of corporations who want to combat *"surveillance capitalism"* - drive the adoption of SSI. The demand in this segment is fueled in parts by ideology, consumer sentiment, and strategic positioning.
 3. **Sovereign individual movement**  
 The demand from this segment comes from people who want to reassert control over their lives and data. Bitcoin, through permissionless cryptocurrency, creats truly decentralized economies that do not rely on any central parties for their operation. The same philosophy, when applied to digital identity, gives birth to this driver.
-
-<br>
 
 ### **Example use cases of SSI**
 
