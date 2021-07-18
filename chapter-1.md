@@ -101,6 +101,22 @@ Adoption of SSI in global travel industry would allow travelers to:
 - selective disclosure - present only what is needed
 - all travel documents flow directly into the digital wallet, ready to be produced on demand
 
+---
+
+## **Major challenges to SSI adoption**
+There are three major challenges to ubiquitious SSI adoption -
+
+1. **Building out the SSI ecosystem**  
+The ecosystem will have to built in a way that encourages multiple stakeholders to trust each-other and their cerfitications. Furthermore, cross-party SSI architectures need to be interoperable. Digital wallets from various vendors (some of which may incorporate digital currency), will have to be interoperable.
+2. **Decentralized key management**  
+Lose your keys -> Lose your identity (and sometimes even your money). This is the very challenge faced by the adoption of cryptography and public key infrastructure. So, there must be a fool-proof, decentralized, key management system.
+3. **Offline access**  
+Not every use case will always have access to the internet. The SSI architecture must be able to function offline or with intermittent or indeterminate connectivity.
+
+**Other challenges**  
+SSI brings with it, the risks associated with the adoption of any exponential technology (See Singularity University's "[An Exponential Primer](https://su.org/concepts)").  
+Furthermore, the development of the SSI architecture must be presided over by experts from various domains - not just technical, legal and business experts.
+
 
 
 
